@@ -285,17 +285,17 @@ a:focus {
   top: 10px;
 }
 
-.custom_nav-container .navbar-toggler[aria-expanded="true"] {
+.custom_nav-container .navbar-toggler[aria-expanded=true] {
   -webkit-transform: rotate(360deg);
           transform: rotate(360deg);
 }
 
-.custom_nav-container .navbar-toggler[aria-expanded="true"] span {
+.custom_nav-container .navbar-toggler[aria-expanded=true] span {
   -webkit-transform: rotate(45deg);
           transform: rotate(45deg);
 }
 
-.custom_nav-container .navbar-toggler[aria-expanded="true"] span::before, .custom_nav-container .navbar-toggler[aria-expanded="true"] span::after {
+.custom_nav-container .navbar-toggler[aria-expanded=true] span::before, .custom_nav-container .navbar-toggler[aria-expanded=true] span::after {
   -webkit-transform: rotate(90deg);
           transform: rotate(90deg);
   top: 0;
@@ -690,6 +690,41 @@ div.desc {
   padding-left: 15px;
   background-color: #ffffff;
 }
+
+.contact_section .contact_form-container textarea {
+  height: 120px;
+  width: 100%;
+}
+
+
+.contact_section .contact_form-container .button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 25px;
+}
+
+.contact_section .contact_form-container .button {
+  display: inline-block;
+  padding: 10px 60px;
+  background-color: #f1db25;
+  color: #ffffff;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  border: 1px solid transparent;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+.contact_section .contact_form-container .button:hover {
+  background-color: transparent;
+  border-color: #f1db25;
+  color: #f1db25;
+}
+
 
 .contact_section .contact_form-container input::-webkit-input-placeholder {
   color: #000000;
