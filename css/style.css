@@ -972,12 +972,16 @@ div.desc {
   display: flex;
 }
 
-.info_section .info_form .social_box a, label {
+.info_section .info_form .social_box a {
   margin-right: 10px;
   color: #ffffff;
   font-size: 20px;
 }
-
+label {
+  margin-right: 10px;
+  color: #ffffff;
+  font-size: 40px;
+}
 /* footer section*/
 .footer_section {
   font-weight: 500;
