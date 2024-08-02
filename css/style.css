@@ -972,7 +972,7 @@ div.desc {
   display: flex;
 }
 
-.info_section .info_form .social_box a {
+.info_section .info_form .social_box a, label {
   margin-right: 10px;
   color: #ffffff;
   font-size: 20px;
