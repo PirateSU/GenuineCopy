@@ -1,37 +1,48 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://genuine-copy.vercel.app/index.html</loc>
-  <lastmod>2024-08-02T09:14:29+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>http://genuine-copy.vercel.app/index.html</loc>
 </url>
 <url>
-  <loc>https://genuine-copy.vercel.app/about.html</loc>
-  <lastmod>2024-08-02T09:14:29+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://genuine-copy.vercel.app/about.html</loc>
 </url>
 <url>
-  <loc>https://genuine-copy.vercel.app/service.html</loc>
-  <lastmod>2024-08-02T09:14:29+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://genuine-copy.vercel.app/service.html</loc>
 </url>
 <url>
-  <loc>https://genuine-copy.vercel.app/pricing.html</loc>
-  <lastmod>2024-08-02T09:14:29+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://genuine-copy.vercel.app/pricing.html</loc>
 </url>
 <url>
-  <loc>https://genuine-copy.vercel.app/contact.html</loc>
-  <lastmod>2024-08-02T09:14:29+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://genuine-copy.vercel.app/contact.html</loc>
 </url>
-
-
+<url>
+  <loc>http://genuine-copy.vercel.app/images/sample2.jpg</loc>
+</url>
+<url>
+  <loc>http://genuine-copy.vercel.app/sample3.png</loc>
+</url>
+<url>
+  <loc>http://genuine-copy.vercel.app/sample5.png</loc>
+</url>
+<url>
+  <loc>http://genuine-copy.vercel.app/sample6.jpg</loc>
+</url>
+<url>
+  <loc>http://genuine-copy.vercel.app/sample7.jpg</loc>
+</url>
+<url>
+  <loc>http://genuine-copy.vercel.app/sample8.png</loc>
+</url>
+<url>
+  <loc>http://genuine-copy.vercel.app/sample9.jpg</loc>
+</url>
+<url>
+  <loc>http://genuine-copy.vercel.app/sample1.jpg</loc>
+</url>
+<url>
+  <loc>http://genuine-copy.vercel.app/random404.html</loc>
+</url>
+<url>
+  <loc></loc>
+</url>
 </urlset>
